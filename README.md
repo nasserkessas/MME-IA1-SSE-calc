@@ -18,9 +18,3 @@ $ python3 SSE.py
 ## Acknoledgements
 
 Created by Nasser Kessas
-
-## Contributing
-
-PRs accepted, feel free to dive in! [Open an issue](https://github.com/nasserkessas/c-trig_grapher/issues/new) or submit PRs.
-
-C Trig Grapher follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
